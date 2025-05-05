@@ -132,7 +132,7 @@ function App() {
               </li>
             ))}
             <li>
-              <a href="#contact" className="cta-button" onClick={() => setIsMenuOpen(false)}>
+              <a href="https://blogkoto.netlify.app/" className="cta-button" onClick={() => setIsMenuOpen(false)}>
                 Blog
               </a>
             </li>
